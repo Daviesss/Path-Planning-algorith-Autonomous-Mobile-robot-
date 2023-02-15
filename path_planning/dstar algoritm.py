@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 import rospy
 from math import sqrt
 from algorithms.neighbors import find_weighted_neighbors
