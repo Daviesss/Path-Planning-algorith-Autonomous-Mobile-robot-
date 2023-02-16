@@ -1,2 +1,2 @@
-# Path-Planning-algorith-Autonomous-Mobile-robot-
+# Path-Planning-algorithm-Autonomous-Mobile-robot-
 Path planning has become a hot topic as mobile robots are widely used in industrial, service and medical industries, among others. Path planning is an important area of research in mobile robotics, where the goal is to plan a collision-free route from a starting point to a target point.The path planning problem can also be formulated as an optimization problem subject to several constraints and performance criteria.e.g., shortest distance, feasibility of the path, whether kinematic constraints are satisfied.A python Node that explains various path planning algorithms. 
